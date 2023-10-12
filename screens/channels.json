@@ -16,6 +16,40 @@
       "externalId": "/content/screens/loop/simple",
       "title": "Asprey Trial Channel",
       "liveUrl": "https://asprey-trial.aem-screens.net/content/screens/loop/simple.html"
+    },
+    {
+      "manifestPath": "/content/screens/loop/square.manifest.json",
+      "lastModified": "2023-10-12T10:42:45.171Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "loop",
+          "path": "/content/screens/loop"
+        }
+      ],
+      "externalId": "/content/screens/loop/square",
+      "title": "Asprey Trial Channel",
+      "liveUrl": "https://asprey-trial.aem-screens.net/content/screens/loop/square.html"
+    },
+    {
+      "manifestPath": "/content/screens/loop/vertical.manifest.json",
+      "lastModified": "2023-10-12T10:42:46.881Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "loop",
+          "path": "/content/screens/loop"
+        }
+      ],
+      "externalId": "/content/screens/loop/vertical",
+      "title": "Asprey Trial Channel",
+      "liveUrl": "https://asprey-trial.aem-screens.net/content/screens/loop/vertical.html"
     }
   ],
   "metadata": {

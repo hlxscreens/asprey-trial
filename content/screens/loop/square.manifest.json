@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1697107365015,
+  "timestamp": 1697107366740,
   "entries": [
     {
-      "path": "/content/screens/loop/simple.html",
-      "timestamp": 1697101582000
+      "path": "/content/screens/loop/square.html",
+      "timestamp": 1697107365171
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -28,16 +28,16 @@
       "timestamp": 1697092640000
     },
     {
-      "path": "/content/screens/loop/media_1e07222a20a6f9d558d8938ad16a68d2ebe9f2455.png?width=750&format=png&optimize=medium",
-      "hash": "1e07222a20a6f9d558d8938ad16a68d2ebe9f2455"
+      "path": "/content/screens/loop/media_13a433065f0e0bf3ea00bd12bef748cb90f14d3d5.png?width=750&format=png&optimize=medium",
+      "hash": "13a433065f0e0bf3ea00bd12bef748cb90f14d3d5"
     },
     {
-      "path": "/content/screens/loop/media_104a5cb55e5d650283b1448c8b5030559be6c02a2.png?width=750&format=png&optimize=medium",
-      "hash": "104a5cb55e5d650283b1448c8b5030559be6c02a2"
+      "path": "/content/screens/loop/media_1d20e09ab7532c5b7b822daf4ad66a446d2e4c0ea.png?width=750&format=png&optimize=medium",
+      "hash": "1d20e09ab7532c5b7b822daf4ad66a446d2e4c0ea"
     },
     {
-      "path": "/content/screens/loop/media_1b9f219d68b5e666f4441d2581743124752d263cf.png?width=750&format=png&optimize=medium",
-      "hash": "1b9f219d68b5e666f4441d2581743124752d263cf"
+      "path": "/content/screens/loop/media_13a8b2bc6fbe1e938d983c67fe0c35e3463e460ae.png?width=750&format=png&optimize=medium",
+      "hash": "13a8b2bc6fbe1e938d983c67fe0c35e3463e460ae"
     },
     {
       "path": "/scripts/delayed.js",
