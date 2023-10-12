@@ -12,6 +12,7 @@ export default function decorate(block) {
                 column.setAttribute('hidden', true);
                 row.setAttribute('data-item-duration', DEFAULT_DISPLAY_DURATION);
                 row.setAttribute('data-type', 'image');
+                row.classList.add('square-image');
             } else if (column.innerText.toLowerCase() === 'video') {
                 column.setAttribute('hidden', true);
                 let videoParent = document.createElement('div');
