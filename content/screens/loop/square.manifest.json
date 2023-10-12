@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1697107366740,
+  "timestamp": 1697114338267,
   "entries": [
     {
       "path": "/content/screens/loop/square.html",
-      "timestamp": 1697107365171
+      "timestamp": 1697107372000
     },
     {
       "path": "/scripts/lib-franklin.js",
