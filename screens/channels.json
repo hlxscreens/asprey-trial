@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/loop/square.manifest.json",
-      "lastModified": "2023-10-12T10:42:52.000Z",
+      "lastModified": "2023-10-12T12:48:18.230Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -14,12 +14,12 @@
         }
       ],
       "externalId": "/content/screens/loop/square",
-      "title": "Asprey Trial Channel",
+      "title": "Asprey Square Channel",
       "liveUrl": "https://asprey-trial.aem-screens.net/content/screens/loop/square.html"
     },
     {
       "manifestPath": "/content/screens/loop/vertical.manifest.json",
-      "lastModified": "2023-10-12T12:46:26.228Z",
+      "lastModified": "2023-10-12T12:46:32.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -31,7 +31,7 @@
         }
       ],
       "externalId": "/content/screens/loop/vertical",
-      "title": "Asprey Trial Channel",
+      "title": "Asprey Vertical Channel",
       "liveUrl": "https://asprey-trial.aem-screens.net/content/screens/loop/vertical.html"
     }
   ],
