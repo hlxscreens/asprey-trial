@@ -1,0 +1,24 @@
+{
+  "channels": [
+    {
+      "manifestPath": "/content/screens/loop/simple.manifest.json",
+      "lastModified": "2023-10-04T08:56:34.304Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "loop",
+          "path": "/content/screens/loop"
+        }
+      ],
+      "externalId": "/content/screens/loop/simple",
+      "title": "Volvo Trial Channel",
+      "liveUrl": "https://volvo-trial.aem-screens.net/content/screens/loop/simple.html"
+    }
+  ],
+  "metadata": {
+    "providerType": "franklin"
+  }
+}

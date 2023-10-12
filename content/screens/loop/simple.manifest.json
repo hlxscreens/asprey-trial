@@ -1,0 +1,79 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1696409794739,
+  "entries": [
+    {
+      "path": "/content/screens/loop/simple.html",
+      "timestamp": 1696409794304
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1696405374000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1696405374000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1696405374000
+    },
+    {
+      "path": "/content/screens/assets/media_158a2007a4dc4182580c7ce28b4d92dd2e1239321.mp4",
+      "timestamp": 1696405680000
+    },
+    {
+      "path": "/content/screens/loop/media_1541c7aeb2be3241ec8f92f06661ecd67f4fffd85.png?width=750&format=png&optimize=medium",
+      "hash": "1541c7aeb2be3241ec8f92f06661ecd67f4fffd85"
+    },
+    {
+      "path": "/content/screens/loop/media_1fee992119014003471f1a9ff7905032e338dcd67.png?width=750&format=png&optimize=medium",
+      "hash": "1fee992119014003471f1a9ff7905032e338dcd67"
+    },
+    {
+      "path": "/content/screens/loop/media_184f666315cad875bbeadb9a9190e014c1e2df88b.png?width=750&format=png&optimize=medium",
+      "hash": "184f666315cad875bbeadb9a9190e014c1e2df88b"
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1696405374000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1696403991000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1696403990000
+    },
+    {
+      "path": "/blocks/menutable/menutable.js",
+      "timestamp": 1696405374000
+    },
+    {
+      "path": "/blocks/menutable/menutable.css",
+      "timestamp": 1696405374000
+    },
+    {
+      "path": "/blocks/menutable/qrcode.min.js",
+      "timestamp": 1696405374000
+    },
+    {
+      "path": "/blocks/loop/loop.js",
+      "timestamp": 1696405373000
+    },
+    {
+      "path": "/blocks/loop/loop.css",
+      "timestamp": 1696405374000
+    }
+  ]
+}
