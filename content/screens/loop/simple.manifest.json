@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1697101311861,
+  "timestamp": 1697101576200,
   "entries": [
     {
       "path": "/content/screens/loop/simple.html",
-      "timestamp": 1697101310883
+      "timestamp": 1697101574482
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -30,6 +30,14 @@
     {
       "path": "/content/screens/loop/media_1e07222a20a6f9d558d8938ad16a68d2ebe9f2455.png?width=750&format=png&optimize=medium",
       "hash": "1e07222a20a6f9d558d8938ad16a68d2ebe9f2455"
+    },
+    {
+      "path": "/content/screens/loop/media_104a5cb55e5d650283b1448c8b5030559be6c02a2.png?width=750&format=png&optimize=medium",
+      "hash": "104a5cb55e5d650283b1448c8b5030559be6c02a2"
+    },
+    {
+      "path": "/content/screens/loop/media_1b9f219d68b5e666f4441d2581743124752d263cf.png?width=750&format=png&optimize=medium",
+      "hash": "1b9f219d68b5e666f4441d2581743124752d263cf"
     },
     {
       "path": "/scripts/delayed.js",
