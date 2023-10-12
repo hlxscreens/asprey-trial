@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/loop/simple.manifest.json",
-      "lastModified": "2023-10-12T06:48:32.083Z",
+      "lastModified": "2023-10-12T07:02:37.094Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -14,7 +14,7 @@
         }
       ],
       "externalId": "/content/screens/loop/simple",
-      "title": "Volvo Trial Channel",
+      "title": "Asprey Trial Channel",
       "liveUrl": "https://main--asprey-trial--hlxscreens.hlx.live/content/screens/loop/simple.html"
     }
   ],

@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1697093314606,
+  "timestamp": 1697094157830,
   "entries": [
     {
       "path": "/content/screens/loop/simple.html",
-      "timestamp": 1697093312083
+      "timestamp": 1697094157094
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -28,16 +28,16 @@
       "timestamp": 1697092640000
     },
     {
-      "path": "/content/screens/loop/media_1541c7aeb2be3241ec8f92f06661ecd67f4fffd85.png?width=750&format=png&optimize=medium",
-      "hash": "1541c7aeb2be3241ec8f92f06661ecd67f4fffd85"
+      "path": "/content/screens/loop/media_1f2990fa43f56629acdaad305ae26c8bd9450e49c.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "1f2990fa43f56629acdaad305ae26c8bd9450e49c"
     },
     {
-      "path": "/content/screens/loop/media_1fee992119014003471f1a9ff7905032e338dcd67.png?width=750&format=png&optimize=medium",
-      "hash": "1fee992119014003471f1a9ff7905032e338dcd67"
+      "path": "/content/screens/loop/media_13766eb163740fdedac7c40557f924d7e7ef336d1.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "13766eb163740fdedac7c40557f924d7e7ef336d1"
     },
     {
-      "path": "/content/screens/loop/media_184f666315cad875bbeadb9a9190e014c1e2df88b.png?width=750&format=png&optimize=medium",
-      "hash": "184f666315cad875bbeadb9a9190e014c1e2df88b"
+      "path": "/content/screens/loop/media_199b5f4c7d558213217ae861663fae13731114d73.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "199b5f4c7d558213217ae861663fae13731114d73"
     },
     {
       "path": "/scripts/delayed.js",
